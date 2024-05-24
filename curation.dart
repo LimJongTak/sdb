@@ -9,7 +9,7 @@ class CurationTab extends StatelessWidget {
           '원룸 꿀팁',
           style: TextStyle(color: Colors.deepOrange), // 글씨 색상 deepOrange로 설정
         ),
-        backgroundColor: Colors.grey, // 배경색 회색으로 설정
+        backgroundColor: Colors.grey, // 배경색 회색으로  설정
       ),
 
       body: SingleChildScrollView(
