@@ -9,7 +9,7 @@ class CustomerCenterPage extends StatelessWidget {
         title: Text(
           '고객센터',
           style: TextStyle(
-            color: Colors.deepOrange, // 타이틀 텍스트 색상을 deepOrange로 설정
+            color: Colors.deepOrange, //   타이틀 텍스트 색상을 deepOrange로 설정
           ),
         ),
       ),
