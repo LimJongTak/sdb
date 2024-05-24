@@ -44,7 +44,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: PreferredSize(
-        preferredSize: Size.fromHeight(100), // 앱바의 세로 길이 설정
+        preferredSize: Size.fromHeight(100), // 앱바의  세로 길이 설정
         child: AppBar(
           backgroundColor: Colors.white, // 앱바 색상을 하얀색으로 변경
           title: Column(
