@@ -10,7 +10,7 @@ class HomeTab extends StatelessWidget {
   Widget build(BuildContext context) {
     return Column(
       children: [
-        // 원룸 찾기와 즐겨찾기로 이동하는 버튼
+        // 원룸 찾기와 즐겨찾기로 이동하는  버튼
         Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
