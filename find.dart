@@ -9,7 +9,7 @@ class FindTab extends StatefulWidget {
 
 class _FindTabState extends State<FindTab> {
   String _searchText = '';
-  int _selectedIndex = 0; // 선택된 버튼 인덱스
+  int _selectedIndex = 0; // 선택된 버튼  인덱스
 
   @override
   Widget build(BuildContext context) {
