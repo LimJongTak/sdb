@@ -10,7 +10,7 @@ class ProfilePage extends StatelessWidget {
         leading: IconButton(
           icon: Icon(Icons.arrow_back_ios, color: Colors.black,), // 뒤로 가기 아이콘
           onPressed: () {
-            Navigator.pop(context); // 이전 화면으로 이동
+            Navigator.pop(context); // 이전  화면으로 이동
           },
         ),
         title: Text(
