@@ -9,7 +9,7 @@ class CEOPage extends StatelessWidget {
         title: Text(
           '사장님 바로가기',
           style: TextStyle(
-            color: Colors.deepOrange, // 타이틀 텍스트 색상을 deepOrange로 설정
+            color: Colors.deepOrange, // 타이틀 텍스트 색상을 deepOrange로  설정
           ),
         ),
       ),
