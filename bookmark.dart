@@ -11,7 +11,7 @@ class BookmarkTab extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center, // 가운데 정렬로 변경합니다.
           children: [
             Padding(
-              padding: EdgeInsets.only(top: 20, bottom: 16, left: 8, right: 8), // 상단 여백을 20만큼 주고 좌우 여백은 8만큼 줍니다.
+              padding: EdgeInsets.only(top: 20, bottom: 16, left: 8, right: 8), // 상단 여백을 20만큼 주고 좌우 여백은 8만큼
               child: Text(
                 '즐겨찾기 원룸 리스트',
                 style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
